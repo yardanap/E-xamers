@@ -1,0 +1,211 @@
+﻿id,question,image,A,B,C,D,E,answer,explanation,topic,subtopic,difficulty_levels
+1,Bagaimana laju glikolisis dikendalikan di dalam sitoplasma sel?,,Glukosa-6-fosfat secara langsung menghambat aktivitas heksokinase,Saturasi piruvat di dalam sitoplasma mengurangi aktivitas piruvat kinase,Fosfoglukosa isomerase dikendalikan secara alosterik oleh ATP,ATP memberikan efek penghambatan pada aktivitas fosfofruktokinase,Laju dikendalikan oleh konsentrasi oksaloasetat yang tersedia,D,"Laju glikolisis di dalam sel ditentukan oleh ATP, yang memberikan efek penghambat pada fosfofruktokinase. Seiring berlangsungnya glikolisis, konsentrasi ATP sitoplasma akan meningkat, sehingga memberikan efek pengaturan negatif pada glikolisis. Fosfofruktokinase adalah enzim yang memainkan peran penting di bagian atas jalur glikolisis — enzim ini memfosforilasi fruktosa-6-fosfat menjadi fruktosa-1,6-bisfosfat.   
+   
+Konsentrasi glukosa-6-fosfat bergantung pada aktivitas fosfofruktokinase. Piruvat dapat dialihkan melalui jalur anaerobik untuk menghasilkan ATP melalui respirasi anaerobik. Oleh karena itu, piruvat tidak membatasi glikolisis. Fosfoglukosa isomerase bertanggung jawab atas isomerisasi glukosa-6-fosfat menjadi fruktosa-6-fosfat. Enzim ini tidak mengatur glikolisis. Oksaloasetat adalah substrat utama yang digunakan dalam siklus Krebs. Proses ini terjadi di dalam mitokondria, bukan di sitoplasma.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+2,Dalam bentuk apa kolesterol diangkut setelah diserap di dalam usus halus?,,Kilomikron,Lipoprotein densitas tinggi,Lipoprotein densitas rendah,Lipoprotein densitas sangat rendah,Lipoprotein densitas menengah,A,"Lemak dari makanan diserap oleh enterosit yang melapisi batas sikat   
+usus kecil dan dibentuk kembali menjadi trigliserida di dalam retikulum endoplasma. Kemudian, lemak tersebut akan dikemas menjadi partikel besar yang disebut kilomikron. Partikel-partikel ini diserap ke dalam pembuluh limfa dan akhirnya akan masuk ke sirkulasi sistemik. Lipoprotein lipase, yang ditemukan di dalam sel endotel yang melapisi jaringan adiposa, otot jantung, dan otot rangka, akan menghidrolisis trigliserida di dalam kilomikron menjadi asam lemak dan gliserol. Kilomikron juga dapat memperoleh apoprotein dari lipoprotein densitas tinggi (HDL) yang mengubahnya menjadi lipoprotein densitas rendah (LDL) dan lipoprotein densitas sangat rendah (VLDL).   
+HDL disintesis di dalam hati dan dikaitkan dengan penurunan risiko penyakit kardiovaskular. LDL adalah bentuk kolesterol berbahaya yang mampu memasuki intima arteri sehingga menyebabkan pembentukan endapan aterosklerotik. VLDL disintesis di hati dan mentransfer trigliserida dan kolesterol ke jaringan adiposa dan otot. Lipoprotein densitas menengah (IDL) adalah prekursor LDL.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+3,Jenis nekrosis apa yang terkait dengan pankreatitis akut?,, Nekrosis koagulatif, Nekrosis kaseosa, Nekrosis likuifaktif, Nekrosis lemak, Nekroptosis,D,"Pankreatitis akut adalah kondisi di mana pankreas mengalami peradangan yang mengakibatkan cedera asinar. Penyebab paling umum pankreatitis akut adalah batu empedu dan kelebihan alkohol, yang keduanya menyebabkan aktivasi dini enzim di dalam pankreas, sehingga menyebabkan autodigesti. Aksi lipase dapat menyebabkan pemecahan lemak di dalam pankreas sehingga menimbulkan gambaran histologis nekrosis lemak. Selain itu, lipase dapat memecah trigliserida untuk melepaskan asam lemak bebas yang dapat mengikat kalsium dalam proses yang disebut saponifikasi. Hal ini dapat mengakibatkan hipokalsemia.   
+   
+Nekrosis koagulatif adalah bentuk kematian jaringan akibat iskemia.   
+   
+Arsitektur jaringan ikat mungkin tetap utuh sementara sel-sel di antaranya mati. Infark miokardium adalah contoh nekrosis koagulatif.   
+   
+Nekrosis kaseosa adalah bentuk kematian jaringan yang terjadi di paru-paru, biasanya karena tuberkulosis. Nekrosis likuifaktif adalah proses di mana kematian jaringan menghasilkan pembentukan ruang berisi cairan. Ini paling sering terjadi di otak. Nekroptosis adalah bentuk kematian sel yang menunjukkan ciri-ciri nekrosis dan apoptosis.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+4,"Seorang pria berusia 61 tahun sedang dalam masa pemulihan di bangsal kardiologi setelah mengalami infark miokardium elevasi ST. Ia telah dipulangkan dengan sejumlah obat, termasuk atorvastatin (statin). Mengingat mekanisme kerja obat ini, substrat manakah yang secara langsung terpengaruh?",, Skualen, Mevalonat, Farnesil pirofosfat, Lanosterol, Kolesterol,B,"Statin adalah obat-obatan yang umum digunakan dalam pengobatan hiperkolesterolemia. Statin juga dapat digunakan sebagai bagian dari pencegahan sekunder pada pasien yang mengalami infark miokard atau stroke.   
+   
+Statin bekerja dengan menghambat HMG-CoA reduktase, yaitu enzim penting dalam metabolisme kolesterol.   
+   
+Statin mengubah mevalonat menjadi HMG-CoA, yang merupakan langkah awal dalam jalur sintesis kolesterol.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+5,Manakah dari junction antar sel berikut yang penting untuk stabilitas mekanik lapisan sel?,, Sambungan ketat, Sambungan adherens, Sambungan celah, Desmosom, Konekson,D,"Desmosom adalah bentuk koneksi antar sel yang memiliki efek penahan pada barisan sel. Desmosom memberikan stabilitas mekanis karena efek adhesifnya yang kuat. Hal ini memungkinkan sel untuk memiliki polaritas.   
+Tight junction dapat ditemukan di antara membran apikal dan lateral sel yang berdekatan. Seperti namanya, tight junction membentuk koneksi yang sangat ketat antara sel-sel yang mengatur lewatnya molekul melalui jalur paraselular. Sambungan adherens menyediakan stabilisasi dan inisiasi adhesi sel-ke-sel dengan mengatur sitoskeleton aktin dan menyatukan sel-sel epitel yang berdekatan. Sambungan celah (pembentuk saluran) memfasilitasi pergerakan molekul dan ion antar sel. Sambungan ini terdiri dari dua konekson (hemichannels). Sambungan celah memungkinkan komunikasi listrik antar sel (misalnya, aktivitas listrik jantung). Konekson adalah komponen yang membentuk sambungan celah.",Ilmu Dasar Kedokteran,sel dan metabolisme,4
+6,"Seorang pasien berusia 74 tahun telah menjalani biopsi dari bronkusnya setelah mengalami hemoptisis. Epitel tampak berlapis-lapis, dengan semua sel apikal mempertahankan kontak dengan lamina basal. Jenis epitel apa yang telah dijelaskan?",, Epitel kolumnar sederhana, Epitel skuamosa sederhana, Epitel skuamosa berlapis, Epitel kuboid berlapis, Epitel pseudostratifikasi,E,"Epitel pseudostratifikasi tampak memiliki beberapa lapisan; namun, semua sel apikal memiliki kontak dengan lamina basal. Epitel ini terutama ditemukan di saluran pernapasan (trakea dan bronkus), saluran kemih, dan saluran reproduksi.   
+   
+Epitel kolumnar sederhana menggambarkan lapisan tunggal sel kolumnar. Epitel ini terutama ditemukan di saluran pencernaan. Epitel skuamosa sederhana adalah lapisan tunggal sel pipih. Endotelium yang melapisi sistem peredaran darah merupakan bentuk epitel skuamosa sederhana. Epitel skuamosa berlapis terbentuk dari beberapa lapisan sel pipih. Epitel ini dapat digambarkan sebagai berkeratinisasi atau tidak berkeratinisasi tergantung pada apakah sel tersebut memiliki lapisan keratin yang tebal. Kulit adalah contoh epitel skuamosa berlapis berkeratinisasi. Esofagus adalah contoh epitel skuamosa berlapis non-keratinisasi.   
+Epitel kuboid berlapis dibentuk oleh beberapa lapisan sel kuboid. Epitel ini ditemukan melapisi saluran kelenjar keringat, kelenjar ludah, dan kelenjar susu.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+7,Enzim manakah berikut ini yang sering diukur dalam diagnosis infark miokard?,, Heksokinase IV, Piruvat dehidrogenase, Laktat dehidrogenase, Kreatin kinase, Troponin,E,"Troponin adalah enzim yang penting dalam kontraksi otot. Troponin I dan T adalah isoform yang terutama ditemukan di dalam kardiomiosit.   
+   
+Kerusakan pada kardiomiosit (misalnya pada infark miokard) mengakibatkan kebocoran troponin ke dalam sirkulasi perifer, sehingga memberikan nilai tinggi pada tes darah.   
+Hal ini sangat penting untuk diagnosis pada dugaan infark miokard.   
+   
+Heksokinase IV adalah enzim intraseluler yang bertanggung jawab atas fosforilasi awal glukosa menjadi glukosa-6-fosfat selama glikolisis.   
+   
+Piruvat dehidrogenase mengubah piruvat menjadi asetil-CoA. Laktat dehidrogenase (LDH) adalah enzim intraseluler yang ditemukan di berbagai jaringan di seluruh tubuh. Karena sangat tersebar luas, peningkatan LDH tidak terlalu spesifik dan dapat terjadi karena sejumlah penyebab, termasuk infark jaringan, hemolisis, dan kanker. Kreatin kinase (CK) adalah enzim yang ditemukan di otot. Kreatin kinase yang tinggi dapat mengindikasikan kerusakan otot (misalnya, rabdomiolisis setelah jatuh dan berbaring lama). Ada tiga isoform utama kreatin kinase: MM (otot rangka), BB (otak), dan MB (jantung). Meskipun CK-MB terutama ditemukan di dalam jantung, troponin lebih disukai sebagai penanda infark.",Ilmu Dasar Kedokteran,sel dan metabolisme,3
+8, Manakah dari berikut ini yang paling tepat menggambarkan mekanisme kerja rotenon?,, Menghambat transfer elektron dari kompleks I ke ubikuinon, Berikatan dengan tangkai ATP sintase dan menghambat fosforilasi oksidatif, Menghambat aktivitas piruvat dehidrogenase, Menghambat aktivitas sitokrom oksidase, Memisahkan fosforilasi oksidatif dari produksi ATP dengan menyediakan jalur alternatif untuk aliran proton,A,"Rotenon adalah zat kimia yang ditemukan di akar dan biji beberapa tanaman.   
+Zat ini menghambat transfer elektron dari kompleks I ke ubikuinon.   
+Hal ini mengakibatkan terhambatnya aliran elektron dalam rantai transpor elektron.   
+Oligomisin adalah antibiotik yang diproduksi oleh streptomyces, yang menghambat fosforilasi oksidatif dengan mengikat subunit F0 dari ATP sintase.   
+   
+Hal ini mengakibatkan akumulasi proton di ruang antar membran mitokondria.   
+Kejenuhan ruang antar membran mengurangi kapasitas proton untuk dipompa keluar secara aktif, sehingga menghambat aliran elektron dalam rantai transpor elektron.   
+Arsenik menghambat piruvat dehidrogenase, yang mengakibatkan berkurangnya konversi piruvat menjadi asetil-CoA.   
+Asetil-CoA merupakan substrat penting yang memasuki siklus Krebs dan menghasilkan ATP. Sitokrom oksidase adalah target utama keracunan sianida.   
+   
+Sianida mengikat secara ireversibel pada gugus heme di dalam sitokrom oksidase,   
+sehingga mencegah langkah transfer elektron terakhir dalam rantai transpor elektron. Dinitrofenol adalah senyawa yang memisahkan fosforilasi oksidatif dari sintesis ATP sehingga meningkatkan laju metabolisme tubuh. Karena mekanisme ini, senyawa ini telah dipasarkan secara ilegal sebagai agen penurun berat badan.",Ilmu Dasar Kedokteran,sel dan metabolisme,4
+9,Kekurangan vitamin manakah yang menyebabkan beri-beri?,, Tiamin, Folat, Vitamin B2, Vitamin B12, Vitamin D,A,"Beriberi adalah sindrom klinis yang disebabkan oleh defisiensi tiamin (vitamin B1). Tiamin memainkan peran penting dalam metabolisme karbohidrat dan defisiensi tiamin mengakibatkan kerusakan sistem saraf perifer yang luas, kelemahan otot, dan gagal jantung.   
+Defisiensi folat dan defisiensi vitamin B12 dikaitkan dengan anemia megaloblastik. Vitamin B12 juga diperlukan untuk mielinasi neuron, dan defisiensinya dapat menyebabkan neuropati perifer. Vitamin B2 diperlukan untuk metabolisme karbohidrat dan berperan dalam menjaga integritas kulit, mata, dan sistem saraf. Vitamin D merupakan faktor utama dalam homeostasis kalsium. Vitamin ini meningkatkan penyerapan kalsium di usus dan mengurangi ekskresi ginjal. Kekurangan vitamin D dapat menyebabkan rakhitis (pada anak-anak) atau osteomalasia (pada orang dewasa).",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+10,Keluarga protein manakah yang bertanggung jawab untuk mengatur perkembangan berurutan dari berbagai tahap siklus sel?,, Kinase BUB, Protein Sentromer-E, Siklin, Kinase RAF, Mitogen,C,"Siklin diekspresikan secara sementara pada titik-titik tertentu dalam siklus sel. Siklin mengaktifkan kinase yang bergantung pada siklin (CDK) yang dapat memfosforilasi dan, oleh karena itu, mengaktifkan protein target yang mendorong perkembangan siklus sel.   
+   
+Aktivasi CDK secara berurutan akan menstimulasi gen pada interval yang diperlukan untuk memungkinkan siklus sel berlangsung.   
+Kinase BUB mengikat serat kinetokor dan berdisosiasi setelah kromosom terikat dengan tepat pada gelendong. Kinase ini memainkan peran penting dalam homeostasis kalsium.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+11, Manakah dari berikut ini yang merupakan contoh pensinyalan autokrin?,, Aksi glukagon pada sel beta pankreas, Produksi faktor pengaktif osteoklas oleh osteoblas, Aksi IL2 pada limfosit T yang diaktifkan, Interaksi reseptor sel T dengan molekul MHC Kelas II, HIV GP120 berinteraksi dengan reseptor CD4,C,"Pensinyalan autokrin adalah bentuk pensinyalan sel dan regulasi hormon   
+di mana hormon yang disekresikan berikatan dengan reseptor yang ditemukan pada sel yang memproduksi hormon tersebut, sehingga menginduksi perubahan aktivitas sel. Aktivasi sel T akan menghasilkan serangkaian peristiwa intraseluler yang   
+mengakibatkan peningkatan ekspresi interleukin 2 (IL2). IL2 yang disekresikan   
+oleh sel T akan berikatan dengan reseptor IL2 pada sel T yang sama, sehingga   
+merangsang diferensiasi sel T yang teraktivasi menjadi sel T efektor   
+dan sel T memori.   
+   
+Efek glukagon, yang diproduksi oleh sel alfa pankreas, pada sel beta dianggap sebagai bentuk pensinyalan parakrin karena   
+beraksi di sekitar sel yang memproduksinya. Faktor pengaktif osteoklas disekresikan oleh osteoblas dan memiliki efek pada osteoklas.   
+   
+Ini juga merupakan bentuk pensinyalan parakrin. Interaksi GP120 dengan reseptor CD4 adalah bentuk lain dari interaksi protein membran.",Ilmu Dasar Kedokteran,sel dan metabolisme,3
+12,"Seorang wanita berusia 42 tahun mengunjungi dokter umum setelah memperhatikan benjolan di lehernya. Pada pemeriksaan, terdapat benjolan keras di lobus kanan kelenjar tiroid. Ia khawatir benjolan tersebut bersifat kanker dan ingin diperiksa lebih lanjut. Manakah dari pemeriksaan berikut yang paling tepat dalam kasus ini?",, Biopsi inti, Potongan beku, Spesimen reseksi, Aspirasi jarum halus, Biopsi trephine,D,"Aspirasi jarum halus (FNA) adalah jenis spesimen biopsi di mana jarum dimasukkan ke dalam benjolan untuk mengumpulkan sampel sel. Ini sering digunakan pada benjolan tiroid. Sampel akan dikirim untuk analisis sitologi yang dapat membantu menentukan apakah benjolan tersebut jinak atau ganas.   
+Biopsi inti adalah teknik serupa di mana jarum yang sedikit lebih besar digunakan sehingga sampel jaringan yang lebih besar dengan arsitekturnya dapat diperoleh. Ini dapat dikirim untuk analisis histologis dan penentuan tingkat tumor.   
+Biopsi inti digunakan dalam pemeriksaan diagnostik benjolan payudara. Sayatan beku adalah teknik yang digunakan selama prosedur bedah di mana sampel dapat dengan cepat dikirim ke laboratorium patologi untuk dianalisis oleh ahli histopatologi. Oleh karena itu, mereka memungkinkan identifikasi jaringan yang cepat dan umpan balik kepada ahli bedah jika diperlukan margin reseksi yang lebih luas.   
+   
+Selama operasi, sampel jaringan dapat diambil dan dikirim untuk analisis histopatologi (misalnya, hemikolektomi kiri untuk kanker kolorektal sisi kiri).   
+   
+Hasil analisis histologis dapat memandu pengobatan berkelanjutan setelah selesainya intervensi bedah. Biopsi trephine digunakan untuk mengambil sampel sumsum tulang.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+13,Manakah dari berikut ini yang merupakan reseptor ionotropik?,, Reseptor angiotensin AT1, Reseptor muskarinik M2, Reseptor asetilkolin nikotinik, Reseptor adrenergik β1, Reseptor histamin H1,C,"Reseptor ionotropik adalah protein reseptor terikat membran yang merespons pengikatan ligan dengan membuka saluran ion, sehingga memungkinkan aliran ion melalui membran sel.   
+Reseptor angiotensin AT1 dan reseptor histamin H1 adalah contoh reseptor Gq yang bekerja dengan menstimulasi fosfolipase C. Reseptor muskarinik M2 adalah reseptor Gi yang bekerja dengan menghambat adenilil siklase. β1   
+   
+Reseptor adrenergik adalah reseptor Gs   
+   
+yang bekerja dengan menstimulasi adenilil   
+siklase.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+14,Enzim siklus Krebs manakah yang ditemukan di permukaan bagian dalam membran mitokondria?,, Fumarase, Suksinat dehidrogenase, Malat dehidrogenase, Sitrat sintase, α-ketoglutarat dehidrogenase,B,"Suksinat dehidrogenase adalah enzim yang terkait dengan kompleks II,   
+bertanggung jawab untuk mengkatalisis oksidasi suksinat menjadi fumarat. FAD adalah   
+pembawa hidrogen yang terlibat dalam langkah oksidasi ini, di mana ia menjadi   
+tereduksi menjadi FADH2 setelah menerima sepasang elektron dari suksinat.   
+   
+FADH2 akan dioksidasi kembali menjadi FAD dengan mentransfer elektron ke   
+protein besi sulfida dalam kompleks II.   
+Fumarase mengubah fumarat menjadi malat dan ditemukan di dalam matriks mitokondria.   
+Malat dehidrogenase mengubah malat menjadi oksaloasetat dan ditemukan di dalam matriks mitokondria.   
+Sitrat sintase mengubah oksaloasetat menjadi sitrat dan ditemukan di dalam matriks mitokondria. α-ketoglutarate   
+dehidrogenase mengubah α-ketoglutarate menjadi suksinil-CoA dan ditemukan di   
+matriks mitokondria.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+15,Seorang pasien berusia 32 tahun didiagnosis menderita PPOK setelah mengalami sesak napas yang semakin parah dengan penurunan toleransi olahraga selama 6 bulan terakhir. Ia juga baru-baru ini didiagnosis menderita sirosis setelah mengalami penyakit kuning dan koagulopati. Kekurangan protein manakah dari berikut ini yang dapat menjelaskan kondisi klinisnya?,, Albumin, α1-antitripsin, Haptoglobin, Komplemen, Gamma globulin,B,"Neutrofil elastase adalah protease yang dilepaskan oleh neutrofil yang diaktifkan   
+dan makrofag untuk memecah patogen dan jaringan inang yang rusak.   
+Sel dan Metabolisme 19   
+Protease ini mampu menyebabkan kerusakan kolateral yang cukup besar   
+ketika dilepaskan ke jaringan yang meradang, sehingga inhibitor neutrofil elastase sangat penting   
+dalam mencegah kerusakan yang tidak diinginkan pada jaringan di sekitarnya.   
+Defisiensi α1-antitripsin adalah kondisi bawaan di mana pasien tidak dapat menghasilkan α1-antitripsin fungsional dalam jumlah yang cukup. Hal ini mengakibatkan peningkatan risiko kerusakan yang dimediasi protease, terutama di   
+hati dan paru-paru. Penyakit ini biasanya bermanifestasi dengan PPOK onset dini dan sirosis.   
+   
+Albumin disintesis di dalam hati dan memainkan peran penting dalam transportasi hormon dan pemeliharaan volume intravaskular. Penyakit hati kronis menyebabkan edema karena penurunan produksi albumin hati.   
+   
+Haptoglobin adalah anggota keluarga globulin α2 dan bertanggung jawab untuk mengikat hemoglobin yang dilepaskan oleh sel darah merah ketika sel-sel tersebut dipecah.   
+   
+Kompleks haptoglobin-hemoglobin selanjutnya dihilangkan oleh limpa.   
+   
+Haptoglobin memiliki peran penting dalam diagnosis anemia hemolitik. Peningkatan penghancuran sel darah merah menyebabkan peningkatan konsumsi haptoglobin, sehingga kadar haptoglobin yang rendah menunjukkan adanya anemia hemolitik. Protein komplemen adalah bagian dari mekanisme penting yang memfasilitasi respons imun kita terhadap infeksi.   
+   
+Kekurangan protein komplemen akan mengakibatkan peningkatan risiko infeksi. Gamma globulin mencakup imunoglobulin yang, jika kekurangan, dapat menyebabkan beberapa sindrom berbeda yang ditandai dengan peningkatan risiko infeksi.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+16,Vinblastin adalah racun spindel mitosis yang digunakan dalam pengobatan limfoma Hodgkin. Ia mengganggu tubulin di dalam mikrotubulus spindel dan mencegah pemisahan kromosom menjadi kromatid saudara. Pada tahap mitosis manakah kromosom dipisahkan?,, Profase, Prometafase, Metafase, Anafase, Telofase,D,"Vinblastin bekerja dengan mengikat protein tubulin dan mencegah pembentukan mikrotubulus. Ini berarti bahwa spindel tidak dapat mengikat kromosom, sehingga kromosom tidak dapat dipisahkan. Hal ini terjadi selama anafase.   
+   
+Selama profase, kondensasi kromosom terjadi yang mengurangi kemungkinan fragmentasi selama mitosis. Kromosom menjadi terlihat sebagai kromatid saudara yang dihubungkan oleh sentromer. Selama prometafase, sentrosom bermigrasi ke ujung nukleus yang berlawanan dan mulai mengatur mikrotubulus yang memancar ke arah sentromer kromosom.   
+   
+Selama metafase, kromosom menyelaraskan diri dengan ekuator spindel. Tahap ini tidak dapat berlangsung dengan adanya vinblastin karena gangguan dalam pembentukan mikrotubulus. Telofase adalah tahap akhir mitosis, di mana selubung nuklir baru terbentuk di sekitar setiap kelompok kromatid. Ini membentuk dua nukleus saudara dan mempersiapkan sel untuk sitokinesis.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+17,Subunit F0 ATP sintase manakah yang awalnya berputar karena aliran proton pasif dari ruang antar membran?,, Subunit B, Subunit C, Subunit Beta, Subunit Gamma, Subunit Alpha,B,"ATP sintase adalah enzim multimerik yang terdiri dari bagian yang terikat membran (F0) dan bagian yang menonjol ke ruang matriks (F1). F1 dan F0 keduanya terdiri dari tiga subunit berbeda, a, b & c, dan alfa, beta dan gamma, masing-masing. Proton akan berdifusi menuruni gradien elektrokimia   
+dari ruang antar membran melalui pori. Ini memfasilitasi rotasi   
+cakram subunit C. Pergerakan pasif proton ini melepaskan   
+energi dan menyebabkan perubahan konformasi pada ATP sintase. Subunit gamma F1 terhubung dengan cakram dan berputar secara bersamaan, namun, subunit alfa dan beta tidak berputar karena subunit beta   
+tertambat pada subunit membran a. Rotasi yang didorong oleh pergerakan proton   
+menyebabkan perubahan konformasi pada protein yang mengubah afinitasnya terhadap   
+ADP sehingga menghasilkan ATP.",Ilmu Dasar Kedokteran,sel dan metabolisme,4
+18,Enzim manakah yang diaktifkan sebagai bagian dari respons terhadap kondisi hiperglikemia?,, Lipase lipoprotein adiposa, Lipase trigliserida adiposa, Glukosa-6-fosfatase, Dipeptidyl peptidase 4, GLUT2,A,"Peningkatan konsentrasi glukosa serum (biasanya karena konsumsi karbohidrat baru-baru ini) akan mengakibatkan pelepasan insulin dari sel beta pankreas. Insulin akan merangsang mekanisme penyimpanan glukosa (misalnya, glikogenesis, lipogenesis, proteogenesis) dan menghambat mekanisme pelepasan glukosa (misalnya, glukoneogenesis, glikogenolisis, lipolisis, proteolisis). Insulin juga meningkatkan aktivitas lipoprotein lipase adiposa yang bertanggung jawab untuk menghidrolisis kilomikron dan memfasilitasi pergerakan asam lemak ke jaringan adiposa tempat asam lemak dapat disimpan.   
+   
+Lipase trigliserida adiposa memecah jaringan adiposa menjadi asam lemak dan monoasilgliserol yang dapat digunakan untuk beta oksidasi. Ini adalah reaksi pertama lipolisis. Glukosa-6-fosfatase hati penting dalam pelepasan glukosa dari glukosa-6-fosfat selama glikogenolisis dan glukoneogenesis. Insulin menghambat enzim ini. Dipeptidyl peptidase   
+   
+4 (DPP4) bertanggung jawab atas pemecahan inkretin, yaitu hormon yang bergantung pada glukosa darah yang dapat merangsang penurunan glukosa serum.   
+   
+Inhibitor DPP4 digunakan dalam pengobatan diabetes melitus karena dapat meningkatkan efek inkretin sehingga menurunkan kadar glukosa darah.   
+   
+GLUT2 adalah transporter glukosa yang ditemukan di sel beta pankreas dan bertindak sebagai sensor glukosa utama pankreas.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+19,Bagaimana NADH sitosolik mentransfer elektron ke mitokondria?,, NADH mereduksi dihidroksiaseton fosfat menjadi gliserol 3-fosfat di bawah aksi enzim mitokondria," NADH mentransfer elektron menggunakan mekanisme pengangkutan gliserol-fosfat, awalnya mereduksi gliserol-3-fosfat sitosolik"," NADH mereduksi oksaloasetat sitosolik menjadi malat, menyeberang ke membran mitokondria bagian dalam"," NADH mereduksi aspartat sitosolik menjadi oksaloasetat, menyeberang ke membran mitokondria bagian dalam", NADH secara langsung mentransfer elektron ke FAD mitokondria,D,"Elektron dari NADH sitosolik ditransfer ke mitokondria melalui mekanisme pengangkutan malat-aspartat. Mekanisme ini dimediasi oleh dua pembawa membran dan empat enzim. Oksaloasetat direduksi dan elektron diperoleh dari NADH untuk membentuk malat melalui kerja malat dehidrogenase. Malat   
+melintasi membran mitokondria bagian dalam dan dioksidasi ulang oleh NAD+   
+di matriks untuk membentuk NADH dan oksaloasetat. Oksaloasetat ini tidak dapat   
+melintasi membran mitokondria bagian dalam sehingga reaksi transaminasi diperlukan   
+untuk mengubah oksaloasetat menjadi aspartat sebelum dapat melintasi   
+membran. Di dalam sitosol, aspartat akan diproses oleh   
+transaminase untuk menghasilkan glutamat dan oksaloasetat. Membran mitokondria bagian dalam relatif kedap terhadap NADH dan NAD+, namun,   
+elektron dari NADH ditransfer melalui membran mitokondria.   
+   
+Hal ini dimediasi oleh mekanisme pengangkutan gliserol-fosfat.",Ilmu Dasar Kedokteran,sel dan metabolisme,3
+20,Sekelompok neutrofil menunjukkan perubahan morfologis termasuk penyusutan inti (piknosis) dan fragmentasi (karyorrhexis) setelah respons inflamasi akut. Proses sel apa yang terjadi?,, Nekrosis, Apoptosis, Nekroptosis, NETosis, Entosis,B,"Apoptosis adalah kematian sel terprogram sebagai respons terhadap stres. Hal ini dimediasi oleh aktivasi kaspase yang tepat waktu yang mengakibatkan degradasi struktur seluler termasuk sitoskeleton dan nukleus.   
+   
+Hal ini mengakibatkan berbagai perubahan morfologis termasuk piknosis dan karioreksis.   
+   
+Neutrofil adalah sel-sel yang merupakan penanggap pertama sistem kekebalan tubuh dan dapat ditemukan dalam jumlah banyak di jaringan yang mengalami peradangan akut. Setelah mereka menjalankan peran mereka dalam memfagositosis patogen dan puing-puing sel, mereka akan mengalami apoptosis dan kemudian mereka sendiri akan difagositosis oleh makrofag.   
+Nekrosis adalah kematian sel yang meluas sebagai respons terhadap stres patologis.   
+Kematian sel nekrotik tidak terorganisir dan mengakibatkan pelepasan berbagai isi sel yang memicu respons inflamasi. Nekroptosis adalah bentuk hibrida kematian sel yang menunjukkan ciri-ciri nekrosis dan apoptosis.   
+Hal ini dapat diinduksi oleh virus seperti HIV. Perangkap ekstraseluler neutrofil (NET) adalah jaringan serat ekstraseluler yang dapat mengikat dan membunuh patogen. Mereka juga dapat mengaktifkan mekanisme bunuh diri di mana neutrofil mati melalui proses yang dikenal sebagai NETosis. Entosis adalah proses di mana sel hidup menyerang dan dikapsulasi oleh sitoplasma sel lain. Hal ini dapat memicu kematian sel.",Ilmu Dasar Kedokteran,sel dan metabolisme,4
+21,Jalur metabolisme manakah yang terutama terpengaruh pada defisiensi MCAD?,,Glikolisis,Beta oksidasi,Fosforilasi oksidatif,Siklus Krebs,Lipogenesis,B,"Defisiensi medium-chain acyl-CoA dehydrogenase (MCAD) adalah kondisi resesif autosomal langka yang, jika tidak didiagnosis, dapat berakibat fatal.   
+   
+Berbagai macam acyl-CoA dehydrogenase bertanggung jawab untuk mengkatalisis pemecahan asam lemak secara bertahap melalui beta oksidasi di dalam matriks mitokondria.   
+Enzim-enzim ini dijelaskan berdasarkan panjang asam lemak yang diprosesnya (misalnya, acyl-CoA dehydrogenase rantai pendek, menengah, dan panjang). Molekul asetil-CoA yang dihasilkan oleh beta oksidasi kemudian dapat memasuki siklus Krebs untuk menghasilkan ATP dan pembawa elektron untuk fosforilasi oksidatif.   
+Proses ini sangat penting dalam menyediakan pasokan energi selama keadaan puasa di mana glukosa langka. Pada defisiensi MCAD, pasien kekurangan enzim yang diperlukan untuk beta oksidasi.   
+   
+Oleh karena itu, kemampuan mereka untuk menghasilkan bentuk energi yang dapat digunakan selama keadaan puasa terganggu.   
+Pasien dengan defisiensi MCAD, oleh karena itu, sebaiknya tidak berpuasa lebih dari 10–12 jam dan, khususnya, harus memiliki pasokan karbohidrat yang konstan karena mereka tidak dapat mengandalkan beta oksidasi.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+22,Bagaimana heksokinase I beradaptasi untuk menjalankan peran metabolismenya secara efektif?,,Afinitas glukosa rendah,Konstanta Michaelis tinggi,Vmax tinggi,Diatur oleh aktivitas glukosa-6-fosfatase,Sensitif terhadap umpan balik negatif dari glukosa-6-fosfat,E,"Heksokinase I adalah glukokinase yang terutama ditemukan di dalam otot.   
+Enzim ini mengkatalisis fosforilasi awal glukosa menjadi glukosa-6-fosfat di dalam sel dan dianggap sebagai langkah pembatas laju metabolisme glukosa.   
+Enzim ini diatur oleh lingkaran umpan balik negatif di mana peningkatan konsentrasi glukosa-6-fosfat mengakibatkan penurunan heksokinase I. Heksokinase I memiliki afinitas tinggi terhadap glukosa. Konstanta Michaelis adalah konsentrasi substrat yang dibutuhkan agar enzim berfungsi pada setengah laju maksimalnya. Heksokinase I pada otot memiliki konstanta Michaelis sebesar 0,1 mM   
+yang menunjukkan bahwa enzim tersebut aktif pada konsentrasi glukosa rendah. Vmax   
+adalah laju aksi enzim maksimal. Mengingat konstanta Michaelis heksokinase I yang rendah, enzim ini beroperasi pada laju maksimumnya pada konsentrasi glukosa yang relatif rendah. Enzim ini tidak diatur oleh aktivitas glukosa-6-fosfatase.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+23, Seorang pria berusia 61 tahun telah didiagnosis menderita osteoartritis yang memengaruhi kedua lututnya. Proteoglikan manakah yang paling banyak terpengaruh pada osteoartritis?,,Aggrecan,Kolagen tipe I,Decorin,Perlecan,Syndecan,A,"Osteoartritis adalah penyakit tulang rawan yang mengakibatkan degradasi matriks ekstraseluler yang berlebihan. Hal ini mengganggu kemampuan sendi tulang rawan untuk melumasi sendi dan melindungi tulang. Aggrecan adalah komponen matriks tulang rawan utama yang didegradasi oleh aggrecanase dan metaloproteinase pada osteoartritis. Osteoartritis dapat disebabkan oleh adanya tulang rawan sendi yang abnormal (misalnya, beberapa keluarga cenderung mengembangkan osteoartritis karena tulang rawan mereka lebih rapuh) atau tekanan sendi yang abnormal (misalnya, penggunaan berulang pada atlet atau obesitas).   
+   
+Kolagen adalah protein matriks ekstraseluler utama yang berkontribusi pada jaringan ikat di seluruh tubuh. Ada lima jenis kolagen utama.   
+   
+Kolagen tipe I ditemukan di kulit, tendon, dan tulang. Kolagen tipe II ditemukan di tulang rawan artikular. Dekorin adalah proteoglikan kecil kaya leusin yang terlibat dalam pengaturan siklus sel. Perlecan adalah proteoglikan heparan sulfat yang bertanggung jawab untuk menjaga stabilitas membran basal. Perlecan juga ditemukan di dalam endotelium. Sindekan adalah proteoglikan permukaan sel yang dapat bertindak sebagai ko-reseptor untuk reseptor yang terhubung dengan protein G.",Ilmu Dasar Kedokteran,sel dan metabolisme,3
+24,Aneuploidi terjadi karena cacat pada titik pemeriksaan spindel mitosis. Tahap mitosis manakah yang tertunda selama titik pemeriksaan ini?,, Profase, Prometafase, Metafase, Anafase, Telofase,D,"Pos pemeriksaan perakitan spindel memantau status perlekatan kromosom   
+mikrotubulus dan menunda dimulainya anafase sampai semua kinetokor telah membentuk koneksi bipolar yang stabil ke spindel mitosis.   
+Kinase BUB mengikat serat kinetokor dan berdisosiasi setelah kromosom   
+terikat dengan aman ke spindel. Ini adalah mekanisme kontrol kualitas koneksi yang terbentuk. Pada aneuploidi, kesalahan perlekatan mikrotubulus ke serat kinetokor terjadi karena cacat pada pos pemeriksaan spindel mitosis.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+25,Seorang pasien berusia 23 tahun dengan riwayat sindrom nefrotik dirawat karena edema umum yang parah. Ia diobati dengan larutan albumin manusia IV. Faktor manakah yang bertanggung jawab atas edema umumnya?,, Peningkatan tekanan onkotik plasma, Penurunan tekanan onkotik plasma, Peningkatan tekanan hidrostatik, Penurunan tekanan hidrostatik, Peningkatan permeabilitas kapiler,B,"Sindrom nefrotik adalah suatu kondisi di mana sejumlah besar protein   
+bocor ke dalam urin, mengakibatkan keadaan hipoalbuminemia. Saat darah   
+melewati kapiler, cairan akan bocor ke dalam interstitium   
+karena tekanan hidrostatik. Sebagian besar cairan ini akan ditarik kembali ke dalam sirkulasi karena tekanan onkotik yang diberikan oleh protein bermuatan negatif besar seperti albumin. Cairan yang tersisa akan kembali ke sirkulasi melalui pembuluh limfatik. Kehilangan protein dalam jumlah besar dalam urin dan keadaan hipoalbuminemia selanjutnya akan menurunkan tekanan onkotik plasma, sehingga mengakibatkan penumpukan volume cairan yang lebih besar di dalam interstisium. Oleh karena itu, infus albumin dapat digunakan sebagai tindakan sementara untuk membantu mengatasi edema.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+26,"Selama glikolisis, gugus fosforil dalam gliserat-3-fosfat bergeser membentuk 2-fosfogliserat. Jenis reaksi apakah ini?",, Reaksi transfer gugus, Reaksi hidrolitik, Reaksi oksidasi-reduksi, Reaksi isomerisasi, Reaksi ligasi yang membutuhkan pemecahan ATP,D,2-Fosfogliserat adalah isomer posisional dari gliserat-3-fosfat karena komposisi unsur molekul tidak berubah — gugus fosforil hanya berubah posisi. Reaksi ini dikatalisis oleh fosfogliserat mutase. Mutase adalah enzim yang mengkatalisis pergeseran intramolekuler suatu gugus kimia.,Ilmu Dasar Kedokteran,sel dan metabolisme,2
+27,Apa target seluler oligomisin?,, ATP sintase, Kompleks I, Kompleks II, Sitokrom oksidase, Koenzim Q,A,"Oligomisin adalah antibiotik yang diproduksi oleh streptomises. Antibiotik ini menghambat fosforilasi oksidatif dengan mengikat subunit F0 dari ATP sintase.   
+   
+Penghambatan ini menghalangi aliran proton melalui enzim, sehingga mengakibatkan akumulasi proton di ruang antar membran mitokondria. Kejenuhan ruang antar membran mengurangi kapasitas proton untuk dipompa keluar secara aktif, sehingga menghambat aliran dalam rantai transpor elektron.   
+Kompleks I adalah pembawa elektron awal dalam rantai transfer. Setelah direduksi oleh oksidasi NADH, ia mentransfer elektron ke koenzim Q.   
+Penghambatan kompleks I akan mengurangi oksidasi NADH dan selanjutnya   
+pemompaan proton melintasi membran mitokondria bagian dalam. Ini mengurangi   
+gradien proton antara membran mitokondria bagian dalam dan ruang antar membran, sehingga mengurangi laju fosforilasi oksidatif.   
+Rotenon adalah agen yang menghambat kompleks I. Malonat adalah   
+inhibitor kompleks II endogen. Ia menghambat suksinat dehidrogenase,   
+sehingga mengurangi aliran elektron dari suksinat ke koenzim Q di sepanjang rantai transpor elektron. Ini, pada gilirannya, mengurangi laju fosforilasi oksidatif.   
+Sitokrom oksidase adalah target utama sianida. Ia mengikat   
+secara ireversibel ke gugus heme sitokrom oksidase, sehingga memblokir   
+langkah terakhir dalam rantai transpor elektron. Koenzim Q (ubiquinon) adalah   
+pembawa elektron yang mentransfer elektron dari kompleks NADH dehidrogenase ke sitokrom bc1.",Ilmu Dasar Kedokteran,sel dan metabolisme,3
+28,Manakah dari berikut ini yang paling tepat menggambarkan fungsi sentromer?,, Membentuk pusat pengorganisasian mikrotubulus, Adhesi dan segregasi kromatid, Melarutkan selubung nuklir, Kondensasi kromosom, Memulai sitokinesis,B,"Sentromer adalah wilayah DNA khusus yang bertanggung jawab untuk   
+menyatukan dua kromatid saudara. Sentromer menyediakan titik perlekatan   
+bagi serat kinetokor untuk mengikat dan kemudian berinteraksi dengan spindel. Hal ini, pada gilirannya,   
+menyediakan titik perlekatan dari mana kromatid saudara dapat dipisahkan oleh mikrotubulus spindel selama anafase.   
+Sentrosom bertanggung jawab untuk menghasilkan pusat pengorganisasian mikrotubulus dari mana mikrotubulus spindel akan memancar. Kinase yang bergantung pada siklin dapat memfosforilasi lamin nuklir dan merangsang pembubaran   
+selubung nuklir. Protein histon mengikat sekuens DNA dan mempromosikan penggulungan dan kondensasi DNA. Sitokinesis terjadi selama   
+telofase. Saat selubung nuklir terbentuk di sekitar dua agregat kromosom yang ada di akhir anafase, alur pembelahan akan terbentuk di ekuator sel. Alur ini akan semakin dalam dan, pada akhirnya, sitoplasma sel anak akan terpisah.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
+29,Asam palmitat adalah asam lemak jenuh 16 karbon yang berasal dari minyak sawit. Berapakah hasil maksimal molekul ATP yang dapat dihasilkan jika asam palmitat mengalami beta oksidasi lengkap?,,128,129,131,134,136,B,"Sebagai senyawa 16-karbon, asam palmitat memiliki kapasitas untuk menghasilkan delapan molekul senyawa 2-karbon asetil-CoA. Oleh karena itu, asam palmitat mengalami tujuh siklus oksidasi beta selanjutnya untuk menghasilkan jumlah asetil-CoA maksimum yang tersedia.   
+   
+• Asam palmitat (16) secara berurutan didekarboksilasi dengan menghilangkan 2 atom karbon dari asil-CoA sehingga menghasilkan pembentukan asetil   
+CoA, dan asil-CoA yang lebih pendek — sepanjang 14 atom karbon.   
+   
+• Proses ini diulang untuk siklus oksidasi beta berikutnya hingga senyawa asil-CoA 4 karbon terakhir dipecah menjadi dua molekul asetil   
+CoA individual.   
+   
+• Setiap siklus beta oksidasi menghasilkan satu molekul NAD dan FAD tereduksi, yang masuk ke dalam rantai transpor elektron untuk menghasilkan ATP melalui fosforilasi oksidatif, selain ATP yang dihasilkan secara langsung melalui oksidasi asetil-CoA selanjutnya.   
+   
+• Asetil-CoA dapat dioksidasi dalam siklus Krebs asalkan beta oksidasi dan metabolisme karbohidrat seimbang (karena oksaloasetat diperlukan sebagai substrat).  Dalam contoh asam palmitat, setiap asetil-CoA menghasilkan 12 molekul ATP   
+(12 × 8 = 96), setiap FAD tereduksi menghasilkan 2 molekul ATP (2 × 7 = 14),   
+setiap NAD tereduksi menghasilkan 3 molekul ATP (3 × 7 = 21), sehingga totalnya adalah   
+131 molekul ATP. Proses ini menghabiskan 2 molekul ATP, sehingga jumlah total molekul ATP yang dihasilkan adalah 129.",Ilmu Dasar Kedokteran,sel dan metabolisme,2
+30,Siklus Krebs adalah komponen utama respirasi aerobik yang menghasilkan ATP. Substrat mana dalam siklus Krebs yang diubah menjadi fumarat melalui reduksi FAD?,, Sitrat, α-ketoglutarat, Malat, Suksinat, Oksaloasetat,D,"Matriks cairan mitokondria mengandung enzim yang bertanggung jawab untuk siklus Krebs. Fungsi utama siklus Krebs adalah menggunakan asetil-CoA untuk menghasilkan ATP. Siklus Krebs melibatkan serangkaian reaksi dekarboksilasi dan dehidrogenasi. Sebagai permulaan, asetil-CoA yang memasuki siklus Krebs akan mentransfer gugus asetat 2-karbon ke senyawa 4-karbon (oksaloasetat), sehingga membentuk sitrat (6-karbon). Sitrat kemudian akan didekarboksilasi menjadi α-ketoglutarat, melepaskan satu molekul karbon dioksida dan menghasilkan NADH. α-ketoglutarat juga akan melepaskan satu molekul karbon dioksida sehingga menghasilkan suksinil-CoA 4-karbon. Suksinil-CoA kemudian diubah menjadi suksinat yang menghasilkan satu molekul ATP.   
+   
+Suksinat kemudian diubah menjadi fumarat yang, pada gilirannya, diubah menjadi malat dan, akhirnya, oksaloasetat. Oleh karena itu, satu siklus tunggal akan menghasilkan   
+2 molekul karbon dioksida, 1 molekul ATP bersama dengan 3 molekul NAD tereduksi dan 1 molekul FADH tereduksi.",Ilmu Dasar Kedokteran,sel dan metabolisme,1
