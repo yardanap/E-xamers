@@ -24,7 +24,15 @@ jobs:
 
     - name: Build app
       run: |
-        pyinstaller main.py --windowed --onefile --collect-all PyQt6
+        pyinstaller main.py \
+        --clean \
+        --onefile \
+        --windowed \
+        --name "E-xamers" \
+        --collect-all PyQt6 \
+        --add-data "assets/main_asset:assets/main_asset" \
+        --add-data "src/ui:src/ui" \
+        --add-data "assets/db_credential/users.csv:assets/db_credential"
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
